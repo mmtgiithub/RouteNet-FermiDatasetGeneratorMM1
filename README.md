@@ -26,4 +26,4 @@ using format v6
 | <img src="docs/images/NPYvisor.png" width="450"> | <img src="docs/images/consola.png" width="450"> |
 
 
-Actualmente, no existe un generador de matrices de routing, así que las matrices de routing se generan a demanda de lo que se quiera analizar manualmente o con asistencia de Inteligencia Artificial
+Currently, there isn't a routing matrix generator, so routing matrices are created on demand for whatever you want to analyze, either manually or with AI assistance.
