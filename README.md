@@ -11,15 +11,15 @@ And the programs have been made by looking the dataset formats, publicly publish
 
 | Editor de grafos | Vista del grafo |
 |:---:|:---:|
-| <img src="docs/images/GrafoGenVista.png" width="450"> | <img src="docs/images/GrafoVisto.png" width="450"> |
-
-| Distribución PDF | Distribución CDF |
-|:---:|:---:|
-| <img src="docs/images/DistribVisorPDF.png" width="450"> | <img src="docs/images/DistribVisorCDF.png" width="450"> |
+| <img src="docs/images/GrafoGenVista.png" width="450"> | <img src="docs/images/Grafovisto.png" width="450"> |
 
 | Información de flujos | Información de nodos |
 |:---:|:---:|
 | <img src="docs/images/Infoflujos.png" width="450"> | <img src="docs/images/Infonodos.png" width="450"> |
+
+| Distribución PDF | Distribución CDF |
+|:---:|:---:|
+| <img src="docs/images/DistribVisorPDF.png" width="450"> | <img src="docs/images/DistribVisorCDF.png" width="450"> |
 
 | Visualizador NPY | Consola |
 |:---:|:---:|
