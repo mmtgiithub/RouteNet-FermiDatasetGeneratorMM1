@@ -12,11 +12,13 @@ And the programs have been made by looking the dataset formats, publicly publish
 ### Visualizador NPY
 
 ![Visualizador NPY](docs/images/NPYvisor.png)
+###
+### Generador de tráfico
 
-### Generador de grafos
-
-![Generador de grafos](docs/images/Infoflujos.png)
-
+<p align="center">
+  <img src="docs/images/Infoflujos" width="48%">
+  <img src="docs/images/Infonodos" width="48%">
+</p>
 ### Distribución PDF
 
 ![Distribución PDF](docs/images/DistribVisorPDF.png)
