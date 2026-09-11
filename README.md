@@ -9,16 +9,18 @@ RouteNet-Fermi is a brand-new way to look and work with networks. Designed by BN
 And the programs have been made by looking the dataset formats, publicly published in https://github.com/BNN-UPC/RouteNet-Fermi, using format v6
 ## Screenshots
 
-### Visualizador NPY
+| Editor de grafos | Vista del grafo |
+|:---:|:---:|
+| <img src="docs/images/GrafoGenVista.png" width="450"> | <img src="docs/images/GrafoVisto.png" width="450"> |
 
-![Visualizador NPY](docs/images/NPYvisor.png)
-###
-### Generador de tráfico
+| Distribución PDF | Distribución CDF |
+|:---:|:---:|
+| <img src="docs/images/DistribVisorPDF.png" width="450"> | <img src="docs/images/DistribVisorCDF.png" width="450"> |
 
-<p align="center">
-  <img src="docs/images/Infoflujos" width="48%">
-  <img src="docs/images/Infonodos" width="48%">
-</p>
-### Distribución PDF
+| Información de flujos | Información de nodos |
+|:---:|:---:|
+| <img src="docs/images/Infoflujos.png" width="450"> | <img src="docs/images/Infonodos.png" width="450"> |
 
-![Distribución PDF](docs/images/DistribVisorPDF.png)
+| Visualizador NPY | Consola |
+|:---:|:---:|
+| <img src="docs/images/NPYvisor.png" width="450"> | <img src="docs/images/consola.png" width="450"> |
