@@ -7,3 +7,16 @@ The idea of this generator is to generate samples with a simple-easy and reliabl
 
 RouteNet-Fermi is a brand-new way to look and work with networks. Designed by BNN team (Barcelona Neural Networking Center), from UPC (Universitat Politècnica de Catalunya) has a GitHub repository publicly available for everyone: https://github.com/BNN-UPC/RouteNet-Fermi
 And the programs have been made by looking the dataset formats, publicly published in https://github.com/BNN-UPC/RouteNet-Fermi, using format v6
+## Screenshots
+
+### Visualizador NPY
+
+![Visualizador NPY](docs/images/NPYvisor.png)
+
+### Generador de grafos
+
+![Generador de grafos](docs/images/Infoflujos.png)
+
+### Distribución PDF
+
+![Distribución PDF](docs/images/DistribVisorPDF.png)
