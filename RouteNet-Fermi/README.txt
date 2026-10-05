@@ -1,12 +1,12 @@
 Este es el primer readme de este proyecto, y viene a decir una cosa:
 
-Este proyecto no contiene las carpetas de RouteNet-Fermi, sino que son un complemento a Èste y se pueden bajar desde https://github.com/BNN-UPC/RouteNet-Fermi.
+Este proyecto no contiene las carpetas de RouteNet-Fermi, sino que son un complemento a √©ste y se pueden bajar desde https://github.com/BNN-UPC/RouteNet-Fermi.
 
-Lo primero serÌa bajar el repositorio original con "git clone https://github.com/BNN-UPC/RouteNet-Fermi" en la carpeta en la que se desea trabajar
-Lo siguiente es buscar en sendos repositorios (Èste y el original de RouteNet-Fermi) el nivel de la carpeta "RouteNet-Fermi", el cual ser· la raiz de los dos.
+Lo primero ser√≠a bajar el repositorio original con "git clone https://github.com/BNN-UPC/RouteNet-Fermi" en la carpeta en la que se desea trabajar
+Lo siguiente es buscar en sendos repositorios (√©ste y el original de RouteNet-Fermi) el nivel de la carpeta "RouteNet-Fermi", el cual ser√° la raiz de los dos.
 
-A continuaciÛn va a ir aÒadiendo carpetas de mi repositorio al repositorio oficial, ya que como he dicho: esto es un complemento.
-En caso de que la carpeta estÈ duplicada, deber· en su lugar aÒadir el elemento que est· un subdirectorio por abajo, ejemplo:
+A continuaci√≥n va a ir a√±adiendo carpetas de mi repositorio al repositorio oficial, ya que como he dicho: esto es un complemento.
+Y donde haya archivos en misma subcarpeta dentro de los 2 folders diferentes (el original de RouteNet-F y √©ste), se copiar√°n los archivos a la subcarpeta del folder de RouteNet-F correspondiente. Ejemplo:
 
 
 Ejemplo:
@@ -16,4 +16,4 @@ traffic_models/	(mio)			traffic_models/											traffic_models/
 									B.py													B.py
 																							C.py   
 																							
-Repetir esto para todos los archivos que haya en el ·rbol 
+Repetir esto para todos los archivos que haya en el √°rbol en todas las subcarpetas; de ese modo, estar√°n todos los complementos 
