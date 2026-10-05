@@ -8,21 +8,21 @@ M/M/1 systems have a very interesting property: infinite queue sizes. This prope
 RouteNet-Fermi is a brand-new way to look and work with networks. Designed by BNN team (Barcelona Neural Networking Center), from UPC (Universitat Politècnica de Catalunya) has a GitHub repository publicly available for everyone: https://github.com/BNN-UPC/RouteNet-Fermi
 And the programs have been made by looking the dataset formats, publicly published in https://github.com/BNN-UPC/RouteNet-Fermi
 using format v6
-## Capturas de pantalla
+## Screenshots
 
-| Editor de grafos | Vista del grafo |
+| Graph editor | Graph view |
 |:---:|:---:|
 | <img src="docs/images/GrafoGenVista.png" width="450"> | <img src="docs/images/Grafovisto.png" width="450"> |
 
-| Información de flujos | Información de nodos |
+| Flow information | Node information |
 |:---:|:---:|
 | <img src="docs/images/Infoflujos.png" width="450"> | <img src="docs/images/Infonodos.png" width="450"> |
 
-| Distribución PDF | Distribución CDF |
+| PDF distribution | CDF distribution |
 |:---:|:---:|
 | <img src="docs/images/DistribVisorPDF.png" width="450"> | <img src="docs/images/DistribVisorCDF.png" width="450"> |
 
-| Visualizador NPY | Consola |
+| NPY visualizer | Console log |
 |:---:|:---:|
 | <img src="docs/images/NPYvisor.png" width="450"> | <img src="docs/images/consola.png" width="450"> |
 
